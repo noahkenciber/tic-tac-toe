@@ -1,6 +1,6 @@
-# Guia de Melhores Práticas: maxeiki_piloto & Deploy GitHub
+# Guia de Melhores Práticas: jogo do noah ! & Deploy GitHub
 
-Este documento formaliza as diretrizes para o desenvolvimento do maxeiki_piloto com foco em versionamento e deploy.
+Este documento formaliza as diretrizes para o desenvolvimento do jogo do noah ! com foco em versionamento e deploy.
 
 ## 🏁 1. Especificações Técnicas do Jogo
 - **Tabuleiro**: Matriz 3x3 (9 posições).

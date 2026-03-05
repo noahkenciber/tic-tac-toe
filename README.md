@@ -1,4 +1,4 @@
-# 🎮 maxeiki_piloto
+# 🎮 jogo do noah !
 
 Um projeto de aplicação web simples de Jogo da Velha (Tic-Tac-Toe), projetado para ser versionado e publicado facilmente.
 
